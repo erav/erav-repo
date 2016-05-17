@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.minidev</groupId>
+  <artifactId>json-smart</artifactId>
+  <version>2.2.1-a-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20160517120000</lastUpdated>
+  </versioning>
+</metadata>
