@@ -4,6 +4,9 @@
   <artifactId>json-smart</artifactId>
   <version>2.2.1-b-SNAPSHOT</version>
   <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
     <versions>
         <version>2.2.1-b-SNAPSHOT</version>
     <versions>
