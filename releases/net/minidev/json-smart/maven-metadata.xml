@@ -4,6 +4,7 @@
   <artifactId>json-smart</artifactId>
   <version>2.2.1-b-SNAPSHOT</version>
   <versioning>
+    <latest>2.2.1-b-SNAPSHOT</latest>
     <versions>
         <version>2.2.1-b-SNAPSHOT</version>
     <versions>
