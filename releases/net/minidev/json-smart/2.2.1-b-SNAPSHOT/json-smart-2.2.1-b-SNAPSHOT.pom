@@ -23,6 +23,12 @@
             <roles>
             </roles>
         </developer>
+        <developer>
+            <id>erav</id>
+            <name>Eitan Raviv</name>
+            <email>adoneitan@gmail.com</email>
+            <timezone>GMT+2</timezone>
+        </developer>
     </developers>
     <licenses>
         <license>
