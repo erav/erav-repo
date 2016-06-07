@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>erav.net.minidev</groupId>
+  <groupId>net.minidev</groupId>
   <artifactId>json-smart</artifactId>
   <version>2.2.1-b-SNAPSHOT</version>
   <versioning>
